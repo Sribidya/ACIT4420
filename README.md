@@ -25,7 +25,6 @@ The system models three types of accounts:
 *Example output:*
 
 --- Standard Account Tests ---
-
 Account Information
 Account Holder: Ajax
 Balance In Account: $0.00
@@ -45,10 +44,7 @@ Account Information
 Account Holder: Ajax
 Balance In Account: $150.00
 
-**************************************************************
-
 --- Savings Account Tests ---
-
 Account Information
 Account Holder: Bob
 Balance In Account: $1000.00
@@ -59,7 +55,6 @@ New balance: $1500.00
 Deposit amount must be positive.
 Deposit is not made.
 
-
 Interest of $75.00 applied.
 New balance: $1575.00
 
@@ -69,10 +64,7 @@ Account Information
 Account Holder: Bob
 Balance In Account: $1575.00
 
-**************************************************************
-
 --- Checking Account Tests ---
-
 Account Information
 Account Holder: Charlie
 Balance In Account: $500.00
@@ -88,4 +80,3 @@ Insufficient funds for withdrawal and transaction fee.
 Account Information
 Account Holder: Charlie
 Balance In Account: $548.00
-
