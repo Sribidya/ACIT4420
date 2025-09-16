@@ -16,13 +16,13 @@ The system models three types of accounts:
   
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/Sribidya/ACIT4420
+   git clone https://github.com/Sribidya/ACIT4420.git
    
    cd ACIT4420/Assignmnet 1
 3. Run 
     python main.py
 
-Example output:
+*Example output:*
 
 --- Standard Account Tests ---
 Account Information
