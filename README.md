@@ -24,7 +24,7 @@ The system models three types of accounts:
 
 *Example output:*
 
---- Standard Account Tests ---
+```--- Standard Account Tests ---
 Account Information
 Account Holder: Ajax
 Balance In Account: $0.00
@@ -79,4 +79,4 @@ Insufficient funds for withdrawal and transaction fee.
 
 Account Information
 Account Holder: Charlie
-Balance In Account: $548.00
+Balance In Account: $548.00```
