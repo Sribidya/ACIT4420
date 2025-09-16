@@ -10,10 +10,13 @@ The system models three types of accounts:
 - **CheckingAccount** (inherits from BankAccount)
 - **Tests** -All tests for this project are implemented in the `main.py` file
            You can run `main.py` to execute and verify the functionality of the banking system classes.
-
+##  Requirements
+- **Python 3.8+** (tested with Python 3.10)  
+- No external libraries required — only Python’s standard library is used.
+- 
 ## How to Run
 1. Clone the repository:
-   git clone <repo-url>
+   git clone https://github.com/Sribidya/ACIT4420
    cd ACIT4420/Assignmnet 1
 2. Run 
     python main.py
