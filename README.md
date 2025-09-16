@@ -13,12 +13,13 @@ The system models three types of accounts:
 ##  Requirements
 - **Python 3.8+** (tested with Python 3.10)  
 - No external libraries required — only Python’s standard library is used.
-- 
+  
 ## How to Run
 1. Clone the repository:
    git clone https://github.com/Sribidya/ACIT4420
+   
    cd ACIT4420/Assignmnet 1
-2. Run 
+3. Run 
     python main.py
 
 Example output:
