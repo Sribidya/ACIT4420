@@ -25,6 +25,7 @@ The system models three types of accounts:
 *Example output:*
 
 --- Standard Account Tests ---
+
 Account Information
 Account Holder: Ajax
 Balance In Account: $0.00
@@ -47,6 +48,7 @@ Balance In Account: $150.00
 **************************************************************
 
 --- Savings Account Tests ---
+
 Account Information
 Account Holder: Bob
 Balance In Account: $1000.00
@@ -70,6 +72,7 @@ Balance In Account: $1575.00
 **************************************************************
 
 --- Checking Account Tests ---
+
 Account Information
 Account Holder: Charlie
 Balance In Account: $500.00
