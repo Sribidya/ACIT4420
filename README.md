@@ -24,7 +24,7 @@ The system models three types of accounts:
 
 *Example output:*
 
---- Standard Account Tests ---
+```--- Standard Account Tests ---
 Account Information
 Account Holder: Ajax
 Balance In Account: $0.00
